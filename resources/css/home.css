@@ -1,0 +1,14 @@
+body {
+    background-color: #f8f9fa;
+    /* Color de fondo */
+}
+
+h2 {
+    margin-bottom: 20px;
+    /* Espacio debajo del título */
+}
+
+.form-group {
+    margin-bottom: 15px;
+    /* Espacio entre los campos del formulario */
+}
